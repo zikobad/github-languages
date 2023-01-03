@@ -24,7 +24,7 @@ gem 'puma', '~> 3.7'
 # gem 'rack-cors'
 
 # Http Client
-gem 'httparty', '~> 0.18'
+gem 'httparty', '~> 0.21'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
